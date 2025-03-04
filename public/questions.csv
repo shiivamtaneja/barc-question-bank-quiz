@@ -1,0 +1,101 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+The 0 and 1 in the binary numbering system are called Binary Digits or,Bytes,Kilobytes,Decimal bytes,Bits,D
+What language does a browser typically interpret to display information from the World Wide Web ?,Machine Code,Assembly Language,HTML,C++,C
+______ is the process of finding errors in software code.,Compiling,Testing,Running,Debugging,D
+The code for a Web page is written using _________.,A fifth generation language,WinZip,Peripherals,Hypertext Markup Language,D
+A program is a sequence of ___________ written in a programming language.,Lines,Function,Instructions,Code words,C
+Which of the following languages is more suited to a structured program ?,PL/1,FORTRAN,BASIC,PASCAL,D
+A computer program that converts assembly language to machine language to machine language is,compiler,Interpreter,Assembler,None of the above,C
+The symbols used in an assembly language are,Codes,Mnemonics,Assembler,All of the above,B
+Which is a non-standard version of a computing language ?,PROLOG,APL,Army,PL/1,C
+A language which is close to that used with in the computer is,High – level language,Assembly language,Low- level language,All of the above,C
+Program execution time would be minimum if the programs are written in,Machine Language,Assembly language,High level language,All of the above,A
+Which one of the following is not a type of a language processor ?,Compiler,Interpreter,Application software,Assembler,C
+Which one of the following is called low level languages ?,Machine language,Assembly language,both of the above,None of the above,C
+Which is the limitation of high level language ?,Lower efficiency,Machine dependence,Machine level coding,None of above,A
+Programming language which is used for scientific purposes and work is to be done in batches is,PASCAL,FORTRAN,LOGO,COMAL,B
+Programming language which is extension of programming language 'BASIC' is,PASCAL,COBOL,LOGO,COMAL,D
+Program subroutines are,called by other programs,fixed variable,default constants,default variables,A
+Loop statement which is repeated to some given number of times is classified as,FOR loop,GO loop,REPEAT loop,GO REPEAT loop,A
+A program which interprets each line of high level program at time of execution is called,instructor,interpreter,translator,executor,B
+Set of data whose items are organized together is classified as,data structure,variable structure,string structure,positive structure,A
+______ is a container that represents a value in a program .,Compiler,Variable,Data type,None of the above,B
+"To distinguish between different data types, a computer uses special ______ .",Internal codes,External codes,compilers,None of the above,A
+"_______ is the same thing as a variable with one major difference. Its does not change, while the value of a variable can change throughout a program .",fixed-Variable,Conditional,Constant,None of the above,C
+"Array is a special type of variable used in many programming languages, such as ________",C,C++,Java,All of the above,D
+What is a segment of code that executes repeatedly based on a certain condition ?,Function,Array,Loop,None of the above,C
+What is defined as a set of code used to carry out specific tasks ?,Function,Class,Loop,None of the above,A
+What is used for a real world object that is to be used in a program ?,Program,Template,Car Class,None of the above,B
+"_______ is object oriented programming language that uses virtual functions, multiple inheritance, exception handling, polymorphism, etc .",C++,C,GUI,None of the above,A
+"C++ provides comprehensive coverage of abstract classes, such as ______ .",Interfaces,"Regular error handling, standard strings",I/O strings,All of the above,D
+A linked list a linear collection of similar data elements called ______ .,Subscript,Index,Nodes,Null,C
+______ was the first high-level language developed by john Backus at IBM in 1956,FORTRAN,COBOL,BASIC,NONE OF THE ABOVE,A
+This language was developed by Dennis Ritchie of Bell Laboratories in order to implement the operating system UNIX .,C,C++,Java,LISP,A
+C is known as,low level programming language,High level  programming language,Machine language,None of the above,B
+Which of the following is language processor ?,Interpreter,Assembler,Compiler,All of the above,D
+________ converts an assembly language program into machine language .,Assembler,Compiler,Interpreter,All of the above,A
+Which of the following language processors converts a high-level language program line by line into a machine language ?,Assembler,Interpreter,Compiler,None of the above,C
+Errors in a computer program are referred to as,Bugs,Mistakes,Item overlooked,Crash,A
+"Computer programs are written in a high level programming language; however, the human-readable version of a program is called ________ .",cache,Instruction set,source code,word size,C
+Which of the following is not a programming language ?,Pascal,Microsoft Office,Java,C++,B
+What is correcting errors in a program called ?,Compiling,Debugging,Grinding,Interpreting,B
+Which one of the following is not a computer language ?,Java,COBOL,ASP,LOTUS,D
+Which of the following is not a computer language ?,PASCAL,UNIX,FORTRAN,COBOL,B
+A series of instructions that tells a computer what to do and how to do. It is called a __________,program,command,user response,processor,A
+A set of step-by-setp procedures for accomplishing a task is known as a (n) ________ .,algorithm,hardware program,software bug,firmware program,A
+All of the following are included in typical Computer programming language which are in use currently Except,C++,Java,visual Basic NET,Machine language,D
+Query language comes under:,Third generation,Fourth generation,Fifth generation,None of these,B
+Errors in computer programs are called,Follies,Mistakes,Bugs,Spam,C
+The default file extension of MS-Excel is,xlr,exe,exl,xls,D
+High Level programming language can be converted to machine language using which of the following ?,Oracle,Compiler,Mat lab,Assembler,B
+Which programming language are classified as low level languages ?,"BASIC, COBOL, FORTRAN",Prolog,"C, C ++",Assembly languages,D
+FORTRAN is,File Translation,Format Translation,Formula Translation,Floppy Translation,C
+"Who invented the high level language ""C"" ?",Dennis M. Ritchie,Niklaus Writh,Seymour Papert,Donald Kunth,A
+_____ is an OOP principle .,Structured programming,Procedural programming,Inheritance,Linking,C
+COBOL is widely used in ________ applications .,Commercial,Scientific,Space,Mathematical,A
+"Father of ""C"" programming language",Dennis Ritchie,Prof John Keenly,Thomas Kurtz,Bill Gates,A
+The instructions that tell a computer how to carry out the processing tasks are referred,programs,processors,input devices,memory moduless,A
+Which one of the following is NOT a computer language ?,MS- Excel,BASIC,COBOL,C++,A
+COBOL is an acronym for _______,Common Business Oriented Language,Computer Business Oriented Language,Common Business Operated Language,Common Business Organized Language,A
+Which of the following is not a binary number ?,1,101,202,110,C
+"When creating a computer program, the ______designs the structure of the program .",End user,System Analyst,Programmer,All of the above,B
+Binary  numbers need more places for counting because,They are always big number,Any no of 0's can be added in front of them,Binary base is small,0's and I's have to be properly spaced apart,C
+The 2's complement of a binary no. is obtained by adding _________ to its 1's complment .,zero,1,10,12,B
+A systems programming language for microcomputers in the intel family is,PL/C,PL/CT,PL/M,PLA,C
+Which is a machine-oriented high-level language for the GEC 4080 series machines .,LOGO,SNOBOL,Babbage,ALGOL,A
+Data division is the third division of a_______program .,COBOL,BASIC,PASCAL,FORTH,A
+Which language was devised by Dr. Seymour Aubrey Papert ?,APL,COBOL,LOGO,FORTRAN,C
+Which of the following is intended to be used in all applications runs on mainframe computers .,LOGO,APL,PL/1,OCCAM,C
+Which is another name for functional language ?,Machine,Application language,Low-Level language,High – level language,B
+A notation used to express clearly on algorithm is known as,Algorithmic language,Assembly language,Machine language,High level language,A
+Which programming language is based on Algol60.,PILOT,SNOBOL,ADA,SIMULA,D
+Symbolic languages were developed in,1962,1950,1974,1980,B
+The language that is an input for statement translation is called .,Assembly language,Source language,High-level language,Object language,B
+Who is the creator of the PASCAL language ?,Niklaus Wirth,Dijkstra,Donald Knuth,Basic Pascal,A
+Computer instructions written with the use of English words instead of binary machine code is called,Mnemonics,Symbolic code,Gray code,OP - code,B
+The following is true about 2 out of 5 code,It is weighted code,it is unweighted code,it has odd parity,All of the above,B
+Each model of a computer has a unique,Assembly language,Machine language,High level langauge,All of the above,B
+The process of writing computer instructions in a programming language is known as,Coding,Processing,Progamming,File,A
+The computer program language which is widely used in computer science and engineering and also in business is,COBOL,FORTRAN,PASCAL,LISP,C
+Group of instructions that directs a computer is called,Storage,Memory,Logic,Program,D
+A code which uses more bits for each character then what is necessary is known as,Hollerith code,Gray code,Redundant code,Mnemonics,C
+A device which converts human readable data into machine language is,Card reader,Card punch,Punched paper tape,Character reader,D
+The most popular language for interactive use is,COBOL,PASCAL,BASIC,FORTRAN,C
+"In which of the following, each data item contains at most 2 points",List Structure,LISP,List sorting,List head,B
+A step-by-step procedure used to solve a problem is called,Operating system,Algorithm,Application program,All of the above,B
+Which of the following is a special purpose language used to describe to a computer's operating system .,LOGO,APL,ICL,CORAL,C
+Which of the following language is the most widely used ?,PL/1,BASIC,FORTRAN,PASCAL,C
+Which language was created by Charles H. Moore at National Radio Astronomy Observatory .,BASIC,FORTH,dBASE,COBOL,B
+Which of the following language is often translated in pseudo code ?,Assembly,FORTRAN,PASCAL,BASIC,C
+Programmed instructions to the computer is known as,Data,Code,Documentation,Database,B
+Programs prepared by an outside supplier & privided to a user in a machine readable form is knwon as,Utility program,Canned program,Application program,Application software,B
+Dennis was Author of Famous Programming Book ________ .,C programming and Techniques,Thinking in C,The C programming Language,Learn C step By Step,C
+C Programing was created at ________ at Dennis Ritchie .,Stanford Lab,Haward University,AT & T Bell Laboratory,L&T Laboratory,C
+C Programming was created in year ______ .,1976,1972,1967,1980,B
+Many features of C were derived from an earlier language called _____ .,B,PASCAL,BASIC,FORTRAN,A
+Which Committe standardize C Programming Language ?,ANSI,W3C,TRAI,ISO,A
+Ritchie and Brian Kernighan jointly carried out the development of C and that version is _________ .,K&R C,ANSI C,C99,R&KC,A
+"Who was Creator of B Language, which inspired Dennis Ritchie to create Strong Procedural Language called C ?",Ken Thompson,Thomas E. Kurtz,John W. Backus,Brian Kernighan,A
+Dennis Ritchie Born On _____ ?,"September 9, 1941","September 9, 1958","September 9, 1951","September 9, 1947",A
+Who is called as Father of C Programming Language ?,Steve Jobs,Dennis Ritchie,Ken Thompson,Bill Gates,B
+"By Nationality, Dennis Ritchie Was _____ ?",British,Russian,Canadian,American,D
